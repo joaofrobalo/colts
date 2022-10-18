@@ -1,7 +1,11 @@
 body {
     background-color: #013369;
     color: white;
+    margin: 0;
 }
 
-
+hr {
+    border: white solid 1px;
+    
+}
 
